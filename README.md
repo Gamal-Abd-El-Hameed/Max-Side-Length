@@ -13,10 +13,10 @@ For each test case, output a single number on a separate line.
 
 ### Sample case:
 #### Input:
-4
-1 1
-3 3
-5 5
+4<br>
+1 1<br>
+3 3<br>
+5 5<br>
 6 6
 #### Output
 1
